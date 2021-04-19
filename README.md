@@ -22,7 +22,6 @@
 <div>
   <details>
     <summary>More</summary>
-    <img src="https://github-profile-trophy.vercel.app/?username=Oss9935&margin-w=50&no-frame=true"/>
     <table id="detail_stats">
       <tr>
         <td valign="top" width="50%">
@@ -32,11 +31,8 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oss9935&hide_border=true&layout=compact&hide=jupyter%20notebook,HTML&langs_count=8" align="left" style="width: 100%" />
         </td>
       </tr>
-      <tr>
-        <td>
-        </td>
-      </tr>
     </table>
+    <img src="https://github-profile-trophy.vercel.app/?username=Oss9935&margin-w=50&no-frame=true"/>
   </details>
 </div>
 
