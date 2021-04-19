@@ -15,15 +15,15 @@
 
 
 ### :octocat: My Github/Online judge Stats
-[![bbkim's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jotun9935)](https://solved.ac/profile/jotun9935)
-
-[![Covenant github stats](https://github-readme-stats.vercel.app/api?username=Oss9935&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+|Online Judge|Github|
+|------------|------|
+|[![bbkim's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jotun9935)](https://solved.ac/profile/jotun9935)|[![Covenant github stats](https://github-readme-stats.vercel.app/api?username=Oss9935&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)|
 
 <div>
   <details>
     <summary>More</summary>
     <img src="https://github-profile-trophy.vercel.app/?username=Oss9935&margin-w=50&no-frame=true"/>
-    <table id="stats">
+    <table id="detail_stats">
       <tr>
         <td valign="top" width="50%">
           <img src="https://github-readme-stats.vercel.app/api?username=Oss9935&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
