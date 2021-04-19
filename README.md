@@ -22,6 +22,7 @@
 <div>
   <details>
     <summary>More</summary>
+    </br>
     <table id="detail_stats">
       <tr>
         <td valign="top" width="50%">
