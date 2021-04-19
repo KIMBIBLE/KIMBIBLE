@@ -13,6 +13,14 @@
 - VueJs
 - Django
 
+:hourglass_flowing_sand: History
+- ***M.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2019.03 ~ 2021.02)
+  - :water_buffalo:&nbsp; [SysCore(System Security & Computer Engineering Research) Lab](http://syscore.sejong.ac.kr/)
+- [KITRI Best of Best 6<sup>th</sup>](https://www.kitribob.kr/). (2017.07 ~ 2018.04)
+- [IoTCube](https://www.iotcube.com/) Internship (2018.07 ~ 2018.09)
+  - Blockchain software vulnerability analysis and software component analysis(sca) tools/technology analysis
+- ***B.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2013.03 ~ 2019.02)
+
 
 ### :octocat: My Github/Online judge Stats
 |Online Judge|Github|
@@ -21,7 +29,7 @@
 
 <div>
   <details>
-    <summary>More</summary>
+    <summary>More :mag_right:</summary>
     </br>
     <table id="detail_stats">
       <tr>
