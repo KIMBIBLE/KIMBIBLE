@@ -6,14 +6,14 @@
 ### ***"Everybody wants to be a bodybuilder, but don't nobody wanna lift no heavy ass weight." -- Ronnie Coleman***
 
 
-🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 - search for a job
 
-🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 - VueJs
 - Django
 
-:hourglass_flowing_sand: History
+### :hourglass_flowing_sand: History
 - ***M.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2019.03 ~ 2021.02)
   - :water_buffalo:&nbsp; [SysCore(System Security & Computer Engineering Research) Lab](http://syscore.sejong.ac.kr/)
 - [KITRI Best of Best 6<sup>th</sup>](https://www.kitribob.kr/). (2017.07 ~ 2018.04)
