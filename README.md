@@ -34,6 +34,34 @@
           <li> Teaching, Designing and Running CTF at <a href="https://gifted.kongju.ac.kr/main/main.php">the Kongju National University Science Education Institute For The Gifted</a>, 2019</li>
         </ul>
     </details>
+    
+    <details>
+      <summary>:pencil2:&nbsp; Publications</summary>
+        <ul>
+          <li>
+            <details>
+              <summary>🌐&nbsp; International</summary>
+              <ul>
+                <li><ins><b>Sung-Kyung Kim</ins><sup>*</sup></b>, Eun-Tae Jang, Ki-Woong Park<sup>†</sup> <b><i>“Toward a Fine-Grained Evaluation of The Pwnable CTF: Extracting Common Assessment Points</i></b>,” The 21th World Conference on Information Security Applications (WISA 2020), pp.179 – 190, Aug. 26 – 28, 2020, Jeju, Korea</li>
+                <li><ins><b>Sung-Kyung Kim</ins><sup>*</sup></b>, Eun-Tae Jang, Seung-Ho Lim, Ki-Woong Park<sup>†</sup>, <b><i>“Reduction of Data Leakage Using Software Streaming”</i></b>, Mobile Internet Security. MobiSec 2019. Communications in Computer and Information Science Springer(ISBN 978-981-15-9608-7), vol 1121 , Springer Singapore, pp. 99-111, Nov. 02, 2020 </li>
+                <li>Sung-Kuy Ahn<sup>*</sup>, HyeLim Jung, <ins><b>Sung-Kyung Kim</b></ins>, Ki-Woong Park<sup>†</sup> <b><i>“Poster: Self-Destructible Electronic Bracelets for Privacy in Quarantine Monotoring System,”</i></b> The 21th World Conference on Information Security Applications (WISA 2020), pp.59, Aug. 26 – 28, 2020, Jeju, Korea</li>
+                <li>Ki-Wan Kang<sup>*</sup>, <ins><b>SungKyung Kim</b></ins>, Ki-Woong Park<sup>†</sup> <b><i>“Requirements Derivation of Testbed of UAV Anomaly Detection,”</i></b> The 5th International Conference on Next Generation Computing 2019 (ICNGC 2019), ISSN 2672-1562, pp.151-153, Dec. 19-21, 2020, Chiang Mai, Thailand</li>
+                <li><b><ins>Sung-Kyung Kim</ins><sup>*</sup></b>, Eun-Tae Jang, Seung-Ho Lim, Ki-Woong Park<sup>†</sup> <b><i>“Towards Disposable Computing: Could You Throw Away Your Device?,”</i></b> The 4th International Symposium on Mobile Internet Security (MobiSec 2019), Oct.17 – Oct. 19, 2019, Taichung, Taiwan, pp. 68</li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details>
+              <summary>🇰🇷&nbsp; Domestic(South Korea)</summary>
+              <ul>
+                <li><b><ins>김성경</ins><sup>*</sup></b>, 강기완, 박기웅<sup>†</sup>, <b><i>“무인이동체 이상행위 탐지를 위한 소프트웨어 정의형 테스트베드 설계 및 구현,”</i></b> 한국차세대컴퓨팅학회 논문지 (KCI등재지) Vol.17 No.1, pp.7-19 (2020년 8월)</li>
+                <li><b><ins>김성경</ins><sup>*</sup></b>, 백승훈, 이상욱, 박기웅<sup>†</sup>, <b><i>“드론 주요 컴포넌트 대상 공격벡터 도출 및 위협 분석,”</i></b> 2019년 한국컴퓨터종합학술대회 (한국정보과학회, KCC 2019),pp.1206-1208, 2019.6.26-28</li>
+                <li>주일현<sup>*</sup>, 이창서, <b><ins>김성경</ins></b>, 차동국, 김진현, 정재욱, 박기웅<sup>†</sup>, <b><i>“드론 센서데이터 이미지화를 위한 이미지 기반 딥 러닝 연구에서 사용된 이미지 전처리 방법 비교 분석</i></b> 한국정보보호학회 하계학술대회 (CISC-S’19), 2019.6.20-22</li>
+              </ul>
+            </details>
+          </li>
+        </ul>
+    </details>
 
 - ***B.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2013.03 ~ 2019.02)
   - [IoTCube](https://www.iotcube.com/) Internship (2018.07 ~ 2018.09)
