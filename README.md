@@ -20,15 +20,19 @@
     <details>
       <summary>Projects</summary>
       <ul>
-        <li>[Project Manager] (Project No. 2020-114), Participated in commissioned research of the National Security Research Institute, 2020.05.07 – 2020.12.06</li>
+        <li>[Project Manager] NDA(Project No. 2020-114), Participated in commissioned research of the National Security Research Institute, 2020.05.07 – 2020.12.06</li>
         <li>[Project Engineer] Development of serverless cloud computing technology that enables resource allocation and usage metering per API call(Project No. 2018-0-00420), Institute for Information & communication Technology Planning & evaluation(IITP)</li>
         <li>[Project Engineer] Solve the problem of applying open OS (Linux) to ground tactical C4I system terminals(Project No. 2019-0-00273), Institute for Information & communication Technology Planning & evaluation(IITP), 2019.04.01 - 2019.12.31</li>
-        <li>[Project Engineer] Participated in commissioned research of the National Security Research Institute (No. 2019-131), 2019.05.01 – 2019.10.31</li>
+        <li>[Project Engineer] NDA(Project No. 2019-131)Participated in commissioned research of the National Security Research Institute, 2019.05.01 – 2019.10.31</li>
       </ul> 
     </details>
   
     <details>
-      <summary>Lecture</summary>
+      <summary>Teaching Experience</summary>
+        <ul>
+          <li> Teaching, Designing and Running CTF at the Kongju National University Science Education Institute For The Gifted, 2020</li>
+          <li> Teaching, Designing and Running CTF at the Kongju National University Science Education Institute For The Gifted, 2019</li>
+        </ul>
     </details>
 
 - ***B.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2013.03 ~ 2019.02)
