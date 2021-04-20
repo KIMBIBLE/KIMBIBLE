@@ -21,7 +21,7 @@
 - ***B.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2013.03 ~ 2019.02)
   - [IoTCube](https://www.iotcube.com/) Internship (2018.07 ~ 2018.09)
     - Blockchain software vulnerability analysis and Software Component Analysis(SCA) tools/technology analysis
-    - [KITRI Best of Best 6<sup>th</sup>](https://www.kitribob.kr/). (2017.07 ~ 2018.04)
+  - [KITRI Best of Best 6<sup>th</sup>](https://www.kitribob.kr/). (2017.07 ~ 2018.04)
 
 
 ### :octocat: My Github/Online judge Stats
