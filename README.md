@@ -30,8 +30,8 @@
     <details>
       <summary>🧑‍🏫&nbsp; Teaching Experience</summary>
         <ul>
-          <li> Teaching, Designing and Running CTF at <a href="https://gifted.kongju.ac.kr/main/main.php">the Kongju National University Science Education Institute For The Gifted</a>, 2020</li>
-          <li> Teaching, Designing and Running CTF at <a href="https://gifted.kongju.ac.kr/main/main.php">the Kongju National University Science Education Institute For The Gifted</a>, 2019</li>
+          <li> Teaching, Problem Designing and Running CTF at <a href="https://gifted.kongju.ac.kr/main/main.php">the Kongju National University Science Education Institute For The Gifted</a>, 2020</li>
+          <li> Teaching, Problem Designing and Running CTF at <a href="https://gifted.kongju.ac.kr/main/main.php">the Kongju National University Science Education Institute For The Gifted</a>, 2019</li>
         </ul>
     </details>
     
