@@ -13,7 +13,7 @@
 ### 🌱 I’m currently learning ...
 - [VueJs](https://github.com/KIMBIBLE/Web-All-In-One/tree/main/frontend/vue_js)
 - Django
-- Problem Solving
+- [Problem Solving](https://github.com/KIMBIBLE/algorithm_solving)
 
 ### :hourglass_flowing_sand: History
 - ***M.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2019.03 ~ 2021.02)
