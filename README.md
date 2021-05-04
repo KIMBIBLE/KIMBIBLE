@@ -12,7 +12,7 @@
 
 ### 🌱 I’m currently learning ...
 - [VueJs](https://github.com/KIMBIBLE/Web-All-In-One/tree/main/frontend/vue_js)
-- Django
+- [Django](https://github.com/KIMBIBLE/Web-All-In-One/tree/main/backend/django)
 - [Problem Solving](https://github.com/KIMBIBLE/algorithm_solving)
 
 ### :hourglass_flowing_sand: History
