@@ -17,7 +17,7 @@
 
 ### 🛠️ Project Releases
 - inlinelatex2readme: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=bbkim.inlinelatex2readme), [Github](https://github.com/KIMBIBLE/inlinelatex2readme)
-  - Visual Studio Code를 활용하여 Github Readme 파일 내의 Inline Mathmatical Formular 작성을 손쉽게 할 수 있도록 도와주는 Extension입니다.
+  - It is an extension that helps you to easily write Inline Mathmatical Formular in Github Readme file using Visual Studio Code.
   - Tech Stack: Typescript, Nodejs, Mocha, VSCode Extension API, Github Actions
 
 ### :hourglass_flowing_sand: History
