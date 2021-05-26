@@ -15,6 +15,11 @@
 - [Django](https://github.com/KIMBIBLE/Web-All-In-One/tree/main/backend/django)
 - [Problem Solving](https://github.com/KIMBIBLE/algorithm_solving)
 
+### 🛠️ Project Releases
+- inlinelatex2readme: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=bbkim.inlinelatex2readme), [Github](https://github.com/KIMBIBLE/inlinelatex2readme)
+  - Visual Studio Code를 활용하여 Github Readme 파일 내의 Inline Mathmatical Formular 작성을 손쉽게 할 수 있도록 도와주는 Extension입니다.
+  - Tech Stack: Typescript, Nodejs, Mocha, VSCode Extension API, Github Actions
+
 ### :hourglass_flowing_sand: History
 - ***M.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2019.03 ~ 2021.02)
   - :water_buffalo:&nbsp; [SysCore(System Security & Computer Engineering Research) Lab](http://syscore.sejong.ac.kr/)
