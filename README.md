@@ -24,12 +24,22 @@
 - ***M.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2019.03 ~ 2021.02)
   - :water_buffalo:&nbsp; [SysCore(System Security & Computer Engineering Research) Lab](http://syscore.sejong.ac.kr/)
     <details>
-      <summary>:rocket:&nbsp; Projects</summary>
+      <summary>:rocket:&nbsp; R&D Projects</summary>
       <ul>
         <li>[Project Manager] <b><i>NDA(Project No. 2020-114)</i></b>, Participated in commissioned research of the National Security Research Institute, 2020.05.07 – 2020.12.06</li>
+        <ul>
+          <li><b>Topic: Unmanned Aerial Vehicle(UAV), Abnormal Detection</b></li>
+        </ul>
         <li>[Project Engineer] <b><i>Development of serverless cloud computing technology that enables resource allocation and usage metering per API call(Project No. 2018-0-00420)</i></b>, Institute for Information & communication Technology Planning & evaluation(IITP)</li>
         <li>[Project Engineer] <b><i>Solve the problem of applying open OS (Linux) to ground tactical C4I system terminals(Project No. 2019-0-00273)</i></b>, Institute for Information & communication Technology Planning & evaluation(IITP), 2019.04.01 - 2019.12.31</li>
         <li>[Project Engineer] <b><i>NDA(Project No. 2019-131)</i></b>, Participated in commissioned research of the National Security Research Institute, 2019.05.01 – 2019.10.31</li>
+        <ul>
+          <li><b>Topic: Unmanned aerial vehicle(UAV), Abnormal Detection</b></li>
+        </ul>
+      <li>[Project Engineer] <b><i>NDA(Project No. 2016-xxx)</i></b>, Participated in commissioned research of the National Security Research Institute, 2016</li>
+        <ul>
+          <li><b>Topic: RTOS(QNX, VXWorks) vulnerability</b></li>
+        </ul>
       </ul>
     </details>
   
