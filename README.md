@@ -17,9 +17,9 @@
 
 ### 🛠️&ensp; Project Releases(Open Source)
 
-|Project Name|Description|Tech Stack|Link|
+|Project Name|Description|Tech Stack|Link<br/>(Click on Badge~)|
 |-|-|-|-|
-|inlinelatex2readme|It is an extension that helps you to easily write Inline Mathmatical Formular in Github Readme file using Visual Studio Code.|Typescript, Nodejs, Mocha, VSCode Extension API, Github Actions(CI/CD)|[VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=bbkim.inlinelatex2readme), [Github](https://github.com/KIMBIBLE/inlinelatex2readme)|
+|inlinelatex2readme|It is an extension that helps you to easily write Inline Mathmatical Formular in Github Readme file using Visual Studio Code.|Typescript, Nodejs, Mocha, VSCode Extension API, Github Actions(CI/CD)|[![GitHub Repo stars](https://img.shields.io/github/stars/KIMBIBLE/inlinelatex2readme?style=social)](https://github.com/KIMBIBLE/inlinelatex2readme) [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/bbkim.inlinelatex2readme)](https://marketplace.visualstudio.com/items?itemName=bbkim.inlinelatex2readme)|
 
 ### :hourglass_flowing_sand:&ensp; History
 - ***M.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2019.03 ~ 2021.02)
@@ -31,12 +31,16 @@
         <ul>
           <li><b>Topic: Unmanned Aerial Vehicle(UAV), Abnormal Detection</b></li>
         </ul>
+        <br/>
         <li>[Project Engineer] <b><i>Development of serverless cloud computing technology that enables resource allocation and usage metering per API call(Project No. 2018-0-00420)</i></b>, Institute for Information & communication Technology Planning & evaluation(IITP)</li>
+        <br/>
         <li>[Project Engineer] <b><i>Solve the problem of applying open OS (Linux) to ground tactical C4I system terminals(Project No. 2019-0-00273)</i></b>, Institute for Information & communication Technology Planning & evaluation(IITP), 2019.04.01 - 2019.12.31</li>
+        <br/>
         <li>[Project Engineer] <b><i>NDA(Project No. 2019-131)</i></b>, Participated in commissioned research of the National Security Research Institute, 2019.05.01 – 2019.10.31</li>
         <ul>
           <li><b>Topic: Unmanned aerial vehicle(UAV), Abnormal Detection</b></li>
         </ul>
+        <br/>
       <li>[Project Engineer] <b><i>NDA(Project No. 2016-xxx)</i></b>, Participated in commissioned research of the National Security Research Institute, 2016</li>
         <ul>
           <li><b>Topic: RTOS(QNX, VXWorks) vulnerability</b></li>
@@ -48,6 +52,7 @@
       <summary>🧑‍🏫&nbsp; Teaching Experience</summary>
         <ul>
           <li> Teaching, Problem Designing and Running CTF at <a href="https://gifted.kongju.ac.kr/main/main.php">the Kongju National University Science Education Institute For The Gifted</a>, 2020</li>
+          <br/>
           <li> Teaching, Problem Designing and Running CTF at <a href="https://gifted.kongju.ac.kr/main/main.php">the Kongju National University Science Education Institute For The Gifted</a>, 2019</li>
         </ul>
     </details>
