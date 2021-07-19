@@ -16,9 +16,10 @@
 - [Problem Solving](https://github.com/KIMBIBLE/algorithm_solving)
 
 ### 🛠️ Project Releases(Open Source)
-- inlinelatex2readme: [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=bbkim.inlinelatex2readme), [Github](https://github.com/KIMBIBLE/inlinelatex2readme)
-  - It is an extension that helps you to easily write Inline Mathmatical Formular in Github Readme file using Visual Studio Code.
-  - Tech Stack: Typescript, Nodejs, Mocha, VSCode Extension API, Github Actions(CI/CD)
+
+|Project Name|Description|Tech Stack|Link|
+|-|-|-|-|
+|inlinelatex2readme|It is an extension that helps you to easily write Inline Mathmatical Formular in Github Readme file using Visual Studio Code.|Typescript, Nodejs, Mocha, VSCode Extension API, Github Actions(CI/CD)|[VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=bbkim.inlinelatex2readme), [Github](https://github.com/KIMBIBLE/inlinelatex2readme)|
 
 ### :hourglass_flowing_sand: History
 - ***M.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2019.03 ~ 2021.02)
