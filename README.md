@@ -19,7 +19,7 @@
 
 |Project Name|Description|Tech Stack|Link<br/>(Click on Badge~)|
 |-|-|-|-|
-|inlinelatex2readme|It is an extension that helps you to easily write Inline Mathmatical Formular in Github Readme file using Visual Studio Code.|Typescript, Nodejs, Mocha, VSCode Extension API, Github Actions(CI/CD)|[![GitHub Repo stars](https://img.shields.io/github/stars/KIMBIBLE/inlinelatex2readme?style=social)](https://github.com/KIMBIBLE/inlinelatex2readme) [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/bbkim.inlinelatex2readme)](https://marketplace.visualstudio.com/items?itemName=bbkim.inlinelatex2readme)|
+|<code>inlinelatex2readme</code>|It is an extension that helps you to easily write Inline Mathmatical Formular in Github Readme file using Visual Studio Code.|Typescript, Nodejs, Mocha, VSCode Extension API, Github Actions(CI/CD)|[![GitHub Repo stars](https://img.shields.io/github/stars/KIMBIBLE/inlinelatex2readme?style=social)](https://github.com/KIMBIBLE/inlinelatex2readme) [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/bbkim.inlinelatex2readme)](https://marketplace.visualstudio.com/items?itemName=bbkim.inlinelatex2readme)|
 
 ### :hourglass_flowing_sand:&ensp; History
 - ***M.S degree*** in Information Security from [Sejong Univ](https://eng.sejong.ac.kr/index.do). (2019.03 ~ 2021.02)
