@@ -129,3 +129,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/typescript.svg" title="Typescript" width="30px"/></a> 
+
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/nodejs.svg" title="NodeJS" width="30px"/></a> 
+
+<a href="https://mochajs.org/"><img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/mocha.svg" title="Mocha" width="30px"/></a> 
+
+<a href="https://code.visualstudio.com/api"><img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/visual-studio-code.svg" title="VSCode Extension API" width="30px"/></a> 
+
+<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/github-actions.svg" title="Github Actions(CI/CD)" width="30px"/></a>
+
+-->
