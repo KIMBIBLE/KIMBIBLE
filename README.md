@@ -15,6 +15,10 @@
 - [Django](https://github.com/KIMBIBLE/Web-All-In-One/tree/main/backend/django)
 - [Problem Solving](https://github.com/KIMBIBLE/algorithm_solving)
 
+### 🖥️&ensp; Technical Blog
+- [Web Development](https://github.com/KIMBIBLE/Web-All-In-One)
+- [Problem Solving](https://github.com/KIMBIBLE/algorithm_solving)
+
 ### 🛠️&ensp; Project Releases(Open Source)
 
 |Project Name|Description|Tech Stack|Link<br/>(Click on Badge~)|
