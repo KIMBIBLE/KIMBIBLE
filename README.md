@@ -21,7 +21,7 @@
 
 ### 🛠️&ensp; Project Releases(Open Source)
 
-|Project Name|Description|Tech Stack|Link<br/>(Click on Badge~)|
+|Project Name|Description|Tech Stack|Link|
 |-|-|-|-|
 |[<code>inlinelatex2readme</code>](https://github.com/KIMBIBLE/inlinelatex2readme)|It is a <code>VSCode Extension</code> that helps you to easily write Inline Mathmatical Formular in Github Readme file using Visual Studio Code.|<p align="center"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/typescript.svg" title="Typescript" width="30px"/></a> <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/nodejs.svg" title="NodeJS" width="30px"/></a> <a href="https://mochajs.org/"><img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/mocha.svg" title="Mocha" width="30px"/></a> <a href="https://code.visualstudio.com/api"><img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/visual-studio-code.svg" title="VSCode Extension API" width="30px"/></a> <a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/KIMBIBLE/KIMBIBLE/main/icons/github-actions.svg" title="Github Actions(CI/CD)" width="30px"/></a></p>|<p align="center">[![GitHub Repo stars](https://img.shields.io/github/stars/KIMBIBLE/inlinelatex2readme?style=social)](https://github.com/KIMBIBLE/inlinelatex2readme) [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/bbkim.inlinelatex2readme)](https://marketplace.visualstudio.com/items?itemName=bbkim.inlinelatex2readme)</p>|
 
