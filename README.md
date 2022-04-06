@@ -8,7 +8,7 @@
 
 
 ### 🔭&ensp; I’m currently working on ...
-- Malware Analysist in Ahnlab
+- Malware Analysist
 
 ### 🌱&ensp; I’m currently learning ...
 - [VueJs](https://github.com/KIMBIBLE/Web-All-In-One/tree/main/frontend/vue_js)
