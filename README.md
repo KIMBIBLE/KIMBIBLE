@@ -91,29 +91,6 @@
   - [KITRI Best of Best 6<sup>th</sup>](https://www.kitribob.kr/). (2017.07 ~ 2018.04)
 
 
-### :octocat: My Github/Online judge Stats
-|Online Judge|Github|
-|------------|------|
-|[![bbkim's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jotun9935)](https://solved.ac/profile/jotun9935)|[![Covenant github stats](https://github-readme-stats.vercel.app/api?username=KIMBIBLE&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)|
-
-<div>
-  <details>
-    <summary>More :mag_right:</summary>
-    </br>
-    <table id="detail_stats">
-      <tr>
-        <td valign="top" width="50%">
-          <img src="https://github-readme-stats.vercel.app/api?username=KIMBIBLE&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-        </td>
-        <td valign="top" width="50%">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMBIBLE&hide_border=true&layout=compact&hide=jupyter%20notebook,HTML&langs_count=8" align="left" style="width: 100%" />
-        </td>
-      </tr>
-    </table>
-    <img src="https://github-profile-trophy.vercel.app/?username=KIMBIBLE&margin-w=50&no-frame=true"/>
-  </details>
-</div>
-
 <!--
 **KIMBIBLE/KIMBIBLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
