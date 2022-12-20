@@ -7,13 +7,6 @@
 > ### ***"Everybody wants to be a bodybuilder, but don't nobody wanna lift no heavy ass weight." -- Ronnie Coleman***
 
 
-### 🔭&ensp; I’m currently working on ...
-- Malware Analysist
-
-### 🌱&ensp; I’m currently learning ...
-- Malware Analysis
-- Windows
-
 ### 🛠️&ensp; Project Releases(Open Source)
 
 |Project Name|Description|Tech Stack|Link|
